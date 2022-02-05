@@ -1,0 +1,29 @@
+.myWorksBlock {
+    height: 100vh;
+    background-color: aliceblue;
+
+}
+
+.myWorksContainer {
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    background-color: darkgray;
+
+}
+
+.works {
+    background-color: burlywood;
+    width: 100%;
+    height: 100%;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}

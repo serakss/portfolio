@@ -1,0 +1,42 @@
+.work {
+    width: 50vh;
+    height: 100vh;
+    border: 1px solid;
+
+
+}
+
+.img {
+    background-color: cadetblue;
+    height: 70vh;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button {
+    height: 20px;
+}
+
+.description {
+    background-color: chartreuse;
+    height: 30vh;
+    border: 1px solid;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.projectName {
+
+    background-color: cadetblue;
+}
+
+.projectDescription {
+    background-color: coral;
+}
